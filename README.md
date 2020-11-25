@@ -10,7 +10,7 @@
 ### Install:
 
 ```bash
-git clone https://github.com/hadrienaka/todo
+git clone https://github.com/hadrienaka/todolist
 cd todo
 bash install.sh
 ```
