@@ -29,6 +29,7 @@ todolist -n Name
 <p>To use in your lists:</p>
 
 ```diff
+Use the arrows to move
 n                        Add a new to-do
 r                        Remove a to-do
 i                        Show as important
