@@ -1,5 +1,5 @@
 # ToDoList CLI [v1.0]
-![](menu.gif)
+![](todo.gif)
 #### A very useful script allowing you to create your own ToDoLists.
 <p>Create modern and easy to-do lists in CLI, add importance to to-do's, simply indicate that they are organized and finalize as many lists as possible!</p>
 
@@ -7,6 +7,7 @@
 <p>Work on : MacOs, KaliLinux [Probably more, tell me if that's the case]</p>
 
 ### Install:
+
 ```bash
 git clone https://github.com/hadrienaka/todo
 cd todo
@@ -14,9 +15,10 @@ bash install.sh
 ```
 
 ### Create Your Own ToDoList :
-![](menuexemple.gif)
+![](todoshortcuts.gif)
 
 <p>Go on your shell then type :</p>
+
 ```bash
 todolist -n Name
 ```
@@ -24,6 +26,7 @@ todolist -n Name
 
 ### Shortcuts:
 <p>To use in your lists:</p>
+
 ```diff
 n                        Add a new to-do
 r                        Remove a to-do
@@ -34,6 +37,7 @@ e                        Exit
 
 ### Arguments:
 <p>To be used in the shell:</p>
+
 ```diff
 -h, --help               Show brief help
 -n, --new                New ToDoList
