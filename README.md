@@ -1,7 +1,7 @@
 # ToDoList CLI [v1.0]
 ![](todo.gif)
 #### A very useful script allowing you to create your own ToDoLists.
-<p>Create modern and easy to-do lists in CLI, add importance to to-do's, simply indicate that they are organized and finalize as many lists as possible!</p>
+<p>Create modern and easy to-do lists in CLI, add importance to to-do's, simply indicate that they are completed and finalize as many lists as possible!</p>
 
 ### Informations:
 <p>Create with [TheBashMenu](https://github.com/hadrienaka/thebashmenu)</p>
