@@ -11,7 +11,7 @@
 
 ```bash
 git clone https://github.com/hadrienaka/todolist
-cd todo
+cd todolist
 bash install.sh
 ```
 
