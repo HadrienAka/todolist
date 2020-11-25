@@ -4,6 +4,7 @@
 <p>Create modern and easy to-do lists in CLI, add importance to to-do's, simply indicate that they are organized and finalize as many lists as possible!</p>
 
 ### Informations:
+<p>Create with [The Bash Menu](https://github.com/hadrienaka/thebashmenu)</p>
 <p>Work on : MacOs, KaliLinux [Probably more, tell me if that's the case]</p>
 
 ### Install:
