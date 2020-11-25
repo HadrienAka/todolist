@@ -5,12 +5,12 @@
 #####################################################################
 #####################################################################
 ####
-#### LEARN MORE ABOUT TODOLIST ON GITHUB.COM/HADRIENAKA/todo
+#### LEARN MORE ABOUT TODOLIST ON GITHUB.COM/HADRIENAKA/todolist
 #### If you like todolist, please feel free to leave a star!
 ####
 #### SUMMARY :
 ####
-#### 1. $ todo
+#### 1. $ todolist
 #### 2. CTRL + X
 #### 3. ARGUMENTS
 #### 4. DISPLAY THE TODOLIST
@@ -74,7 +74,7 @@ while test $# -gt 0; do
       printf "\n\e[1;92me                     \e[0m\e[1;77mExit\e[0m"
       printf "\n"
       printf "\n\e[0;92m? \e[0m\e[1;77mMore information\e[0;96m on the github page.\e[0m"
-      printf "\n\e[0;92m? \e[0m\e[1;77m[https://github.com/hadrienaka/todo]\e[0m"
+      printf "\n\e[0;92m? \e[0m\e[1;77m[https://github.com/hadrienaka/todolist]\e[0m"
       echo
       exit 0
       ;;
@@ -108,7 +108,7 @@ while test $# -gt 0; do
         echo
         exit
       else
-        git clone https://github.com/hadrienaka/todo &>/dev/null
+        git clone https://github.com/hadrienaka/todolist &>/dev/null
         cd todo || exit
         chmod +x todo.sh
         sudo rm /usr/local/bin/todo
