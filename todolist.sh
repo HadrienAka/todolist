@@ -67,6 +67,7 @@ while test $# -gt 0; do
       printf "\n\e[1;92m-u, --update          \e[0m\e[1;77mUpdate Todo\e[0m"
       printf "\n"
       printf "\n\e[1;77mShortcuts  :\e[1;96 [When you are on a ToDoList]m\e[0m"
+      printf "\n\e[1;92mUse the arrows to move\e[0m"
       printf "\n\e[1;92mn                     \e[0m\e[1;77mAdd a new ToDo\e[0m"
       printf "\n\e[1;92mr                     \e[0m\e[1;77mRemove a ToDoe[0m"
       printf "\n\e[1;92mi                     \e[0m\e[1;77mShow as important\e[0m"
